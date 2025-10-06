@@ -63,8 +63,8 @@ This dashboard enables the Revenue Team to:
 
 | View | Description |
 |------|--------------|
-| ![Full View](Full20%View.png) | Main Dashboard Overview |
-| ![Tooltip View](Tooltip20%View.png) | Sample Tooltip View |
+| ![Full View](Full%20View.png) | Main Dashboard Overview |
+| ![Tooltip View](Tooltip%20View.png) | Sample Tooltip View |
 
 
 🖼️ Upload your screenshots to the *images/* folder in your repository and update the image paths above.
