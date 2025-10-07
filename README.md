@@ -66,5 +66,6 @@ This dashboard enables the Revenue Team to:
 | [Full View](Full%20View.png) | Main Dashboard Overview |
 | [Tooltip View](Tooltip%20View.png) | Sample Tooltip View |
 
-
-https://drive.google.com/file/d/1Z0f89oENjet8QlhOXN1ynYPqYDmnXNZ2/view?usp=sharing
+---
+Hotel Revenue Insight Power BI Dashboard
+[https://drive.google.com/file/d/1Z0f89oENjet8QlhOXN1ynYPqYDmnXNZ2/view?usp=sharing]
