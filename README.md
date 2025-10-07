@@ -68,4 +68,5 @@ This dashboard enables the Revenue Team to:
 
 ---
 Hotel Revenue Insight Power BI Dashboard
+
 [https://drive.google.com/file/d/1Z0f89oENjet8QlhOXN1ynYPqYDmnXNZ2/view?usp=sharing]
